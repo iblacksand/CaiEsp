@@ -1,0 +1,14 @@
+{
+  "name": "caiesp",
+  "version": "0.0.1",
+  "description": "A game based on SpyFall meant to help study vocab for a foreign language in a classroom environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "vocab"
+  ],
+  "author": "John Elizarraras",
+  "license": "ISC"
+}
