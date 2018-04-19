@@ -10,5 +10,8 @@
     "vocab"
   ],
   "author": "John Elizarraras",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.1.0"
+  }
 }
